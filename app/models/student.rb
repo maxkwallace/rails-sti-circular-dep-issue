@@ -1,0 +1,2 @@
+class Student < Participant
+end

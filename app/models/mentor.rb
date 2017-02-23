@@ -1,0 +1,2 @@
+class Mentor < Participant
+end

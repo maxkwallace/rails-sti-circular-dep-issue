@@ -1,0 +1,2 @@
+class Participant < Entity
+end
